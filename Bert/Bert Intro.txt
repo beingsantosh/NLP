@@ -1,1 +1,2 @@
-werwerewr
+Bert is breakthrough in NLP.
+It was developed by Google engineers head by Jacob Devlin in 2018.
